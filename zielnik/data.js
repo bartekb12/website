@@ -17,3 +17,5 @@ const data = [
     { file: "tuja.jpg", title: "Tuja" },
     { file: "tulipan.jpg", title: "Tulipan" },
 ]
+
+export {data};
